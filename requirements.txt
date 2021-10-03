@@ -1,14 +1,17 @@
+attrs==21.2.0
 backports.entry-points-selectable==1.1.0
 configparser2==4.0.0
 distlib==0.3.3
 falcon==3.0.1
 filelock==3.2.1
 gunicorn==20.1.0
+iniconfig==1.1.1
 packaging==21.0
 platformdirs==2.4.0
 pluggy==1.0.0
 py==1.10.0
 pyparsing==2.4.7
+pytest==6.2.5
 redis==3.5.3
 six==1.16.0
 toml==0.10.2
